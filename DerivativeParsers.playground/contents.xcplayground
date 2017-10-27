@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='00 - Ternean'/>
+        <page name='01'/>
+        <page name='02'/>
+        <page name='03 - Recognizer'/>
+        <page name='04'/>
+        <page name='05'/>
+        <page name='06'/>
+        <page name='07'/>
+        <page name='08'/>
+        <page name='09'/>
+        <page name='10'/>
+        <page name='11'/>
+    </pages>
+</playground>
