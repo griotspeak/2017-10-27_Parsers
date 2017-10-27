@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='00 - What is a Parser?'/>
+        <page name='01 - struct!'/>
+        <page name='02 - Result'/>
+        <page name='03 - Zero'/>
+        <page name='04 - Item'/>
+        <page name='05 - Bind'/>
+        <page name='06 - Satisfy'/>
+        <page name='07 - Putting the Combin in Combinator'/>
+        <page name='08 - headAndTail'/>
+        <page name='09 - Say Word'/>
+        <page name='10 - Choice'/>
+        <page name='Final'/>
+    </pages>
+</playground>
